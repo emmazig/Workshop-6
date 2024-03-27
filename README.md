@@ -1,6 +1,7 @@
 # Workshop-6
 
 this is the URL :  (https://emmazig.github.io/Workshop-6/)
+
 I experimented with a couple of different ideas with this sketch until I came to one I was happy with. I first wanted to have the last word rhyme with the user's input every time. I then tried swapping out any verbs with a random verb. I struggled to get both the rhyming and the change in verb to work at the same time. So I decided to use the random order function instead.
 
 
